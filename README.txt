@@ -1,0 +1,1 @@
+Regresie liniara pentru estimare preturi imobiliare
